@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Spick 'N Span Groomers</title>
+    <link rel="icon" type="image/x-icon" href="~/Images/dog-washer-logo-image sm.png" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PortoSpire_Mock_Project.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <div><br /><br /></div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <img src="~/Images/dog-washer-logo-image sm.png" id="logo" class="pull-left"/>
+            </div>
+            <div class="col">
+          <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light box-shadow mb-3">
+             <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white nav-bar" asp-area="" asp-controller="Home" asp-action="Index">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white nav-bar" asp-area="" asp-controller="Home" asp-action="Services">Services</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white nav-bar" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+                        </li>
+                        <li class="nav-item">
+                            <a target="_blank" href="https://www.facebook.com/"><img src="~/Images/facebook-thumbnail.png" /></a>
+                        </li>
+                    </ul>
+                </div>
+                </div>
+            </div>
+            </div>
+        </nav>
+        <br />
+        <div class="row">
+            <div class="col-3">
+                <img src="~/Images/dog washer text logo sm.png" id="logo" class="pull-left rounded" style="background-color: white;"/>
+            </div>
+            <div class="col d-flex">
+                <h2 class="text-white" style="text-shadow: 2px 4px 4px black;">Bring the Clean Directly to You!</h2>
+            </div>
+        </div> <br />
+            @RenderBody()
+       </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container text-white bg-success span6 text-center">
+            Copyright 2125 Spick 'N Span, LLC. All Rights Reserved. PO Box 55555 Middle, Indiana 43208 + 1.888.555.1234
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
