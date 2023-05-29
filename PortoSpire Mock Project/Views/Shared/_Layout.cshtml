@@ -20,44 +20,41 @@
                 <img src="~/Images/dog-washer-logo-image sm.png" id="logo" class="pull-left"/>
             </div>
             <div class="col">
-          <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light box-shadow mb-3">
-             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                <nav class="navbar navbar-expand-sm navbar-toggleable-sm box-shadow mb-3">
+                    <div class="container-fluid">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-white nav-bar" asp-area="" asp-controller="Home" asp-action="Index"><b>About</b></a>
-                        </li>
-                        <li class="nav-item">
-                                    <a class="nav-link text-white nav-bar" asp-area="" asp-controller="Home" asp-action="Services"><b>Services</b></a>
-                        </li>
-                        <li class="nav-item">
-                                    <a class="nav-link text-white nav-bar" asp-area="" asp-controller="Home" asp-action="Contact"><b>Contact</b></a>
-                        </li>
-                        <li class="nav-item">
-                            <a target="_blank" href="https://www.facebook.com/"><img src="~/Images/facebook-thumbnail.png" /></a>
-                        </li>
-                    </ul>
-                </div>
-                </div>
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="navbar-collapse collapse d-sm-inline-flex nav-group">
+                            <ul class="navbar-nav flex-grow-1">
+                                <li class="nav-item">
+                                    <a class="nav-link nav-bar rounded" asp-area="" asp-controller="Home" asp-action="Index">About</a>&nbsp
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link nav-bar rounded" asp-area="" asp-controller="Home" asp-action="Services">Services</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link nav-bar rounded" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
             </div>
-            </div>
-        </nav>
-        <br />
+    <br />
         <div class="row">
             <div class="col-3">
-                <img src="~/Images/dog washer text logo sm.png" id="logo" class="pull-left rounded" style="background-color: white;"/>
+                <img src="~/Images/dog washer text logo sm.png" id="logo" class="pull-left rounded" />
             </div>
             <div class="col d-flex">
-                <h2 class="text-white" style="text-shadow: 2px 4px 4px black;">Bring the Clean Directly to You!</h2>
+                    <h1 class="text-white" style="text-shadow: 2px 4px 4px black;">&nbsp&nbsp&nbsp&nbspBring the Clean<br />&nbsp&nbsp&nbsp&nbspDirectly to You!</h1>
             </div>
-        </div> <br />
+        </div> 
             @RenderBody()
-       </div>
+        </div>
     </div>
+    <br />
 
     <footer class="footer">
         <div class="container text-white bg-success span6 text-center">

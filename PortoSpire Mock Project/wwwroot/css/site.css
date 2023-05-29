@@ -32,9 +32,17 @@ body {
 }
 
 .nav-bar {
-    font-size: 40px; 
-    font-family: Sans;
-    text-shadow: 2px 4px 4px black;
+    color: white;
+    background: linear-gradient(to right, limegreen, yellow);
+    font-size: 40px;
+    font-family: 'Comic Sans MS';
+    text-shadow: 2px 6px 6px black;
+}
+.nav-link {
+    color: white;
+}
+.nav-bar:hover {
+    color: lightgray;
 }
 
 .pamper {
@@ -68,6 +76,14 @@ body {
 
 .overlay-text {
     position: absolute;
+}
+
+.price {
+    background-color: yellow;
+}
+
+.desc {
+    background-color: white;
 }
 
 #d_w_g {
