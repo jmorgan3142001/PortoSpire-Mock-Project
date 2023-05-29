@@ -51,6 +51,10 @@ body {
     text-shadow: 2px 4px 4px black;
 }
 
+.lime {
+    background-color: limegreen;
+}
+
 .contact_info {
     font-size: 32px;
     font-family: 'Comic Sans MS';
