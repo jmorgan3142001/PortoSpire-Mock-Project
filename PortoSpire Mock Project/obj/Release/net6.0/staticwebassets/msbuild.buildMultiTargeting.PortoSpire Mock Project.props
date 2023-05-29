@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PortoSpire Mock Project.props" />
+</Project>

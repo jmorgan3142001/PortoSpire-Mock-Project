@@ -1,0 +1,7 @@
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PubTmp\Out\PortoSpire Mock Project.exe
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PubTmp\Out\PortoSpire Mock Project.dll
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PubTmp\Out\PortoSpire Mock Project.deps.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PubTmp\Out\PortoSpire Mock Project.runtimeconfig.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PubTmp\Out\PortoSpire Mock Project.pdb

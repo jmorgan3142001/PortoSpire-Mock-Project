@@ -1,0 +1,105 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    min-height: 100%;
+}
+
+.parallax-container {
+    height: 340px;
+    position: relative;
+}
+
+.parallax-container img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: 50% 50%;
+    object-position: 50% 50%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: url('../Images/dog-washer-page-header-shape sm.png') left top no-repeat, url('../Images/dog-washer-graphic.jpg') 37rem 16rem no-repeat, linear-gradient(145deg, #90EE90, rgba(255,0,0,0));
+}
+
+.nav-bar {
+    color: white;
+    background: linear-gradient(to right, limegreen, yellow);
+    font-size: 40px;
+    font-family: 'Comic Sans MS';
+    text-shadow: 2px 6px 6px black;
+}
+.nav-link {
+    color: white;
+}
+.nav-bar:hover {
+    color: lightgray;
+}
+
+.pamper {
+    font-size: 40px;
+    font-family: 'Comic Sans MS';
+    text-shadow: 2px 4px 4px black;
+}
+
+.lime {
+    background-color: limegreen;
+}
+
+.contact_info {
+    font-size: 32px;
+    font-family: 'Comic Sans MS';
+    text-shadow: 2px 4px 4px black;
+}
+
+.service {
+    font-family: 'Comic Sans MS';
+    text-shadow: 2px 4px 4px black;
+}
+
+.pull-right {
+    margin: 0 0 0 auto;
+}
+
+.pull-left {
+    margin: 0 0 0 auto;
+}
+
+.graphic {
+    position: relative;
+}
+
+.overlay-text {
+    position: absolute;
+}
+
+.price {
+    background-color: yellow;
+}
+
+.desc {
+    background-color: white;
+}
+
+#d_w_g {
+    text-align: right;
+}
+
+#logo {
+    text-align: left;
+}
+
+#nav_bar {
+    text-align: right;
+}
+
+

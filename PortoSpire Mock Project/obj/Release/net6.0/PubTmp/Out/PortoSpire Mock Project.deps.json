@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PortoSpire Mock Project/1.0.0": {
+        "runtime": {
+          "PortoSpire Mock Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PortoSpire Mock Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

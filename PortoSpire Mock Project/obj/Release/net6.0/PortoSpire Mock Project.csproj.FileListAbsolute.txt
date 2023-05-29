@@ -1,0 +1,31 @@
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\bin\Release\net6.0\appsettings.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\bin\Release\net6.0\PortoSpire Mock Project.staticwebassets.runtime.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\bin\Release\net6.0\PortoSpire Mock Project.exe
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\bin\Release\net6.0\PortoSpire Mock Project.deps.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\bin\Release\net6.0\PortoSpire Mock Project.runtimeconfig.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\bin\Release\net6.0\PortoSpire Mock Project.dll
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\bin\Release\net6.0\PortoSpire Mock Project.pdb
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.csproj.AssemblyReference.cache
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.AssemblyInfoInputs.cache
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.AssemblyInfo.cs
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.csproj.CoreCompileInputs.cache
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.RazorAssemblyInfo.cache
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.RazorAssemblyInfo.cs
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\staticwebassets\msbuild.PortoSpire Mock Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\staticwebassets\msbuild.build.PortoSpire Mock Project.props
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.PortoSpire Mock Project.props
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.PortoSpire Mock Project.props
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\scopedcss\bundle\PortoSpire Mock Project.styles.css
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\scopedcss\projectbundle\PortoSpire Mock Project.bundle.scp.css
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.dll
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\refint\PortoSpire Mock Project.dll
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.pdb
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\PortoSpire Mock Project.genruntimeconfig.cache
+C:\Users\Jake Morgan\source\repos\PortoSpire Mock Project\Mock-Project\PortoSpire Mock Project\obj\Release\net6.0\ref\PortoSpire Mock Project.dll
